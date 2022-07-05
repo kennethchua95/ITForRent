@@ -1,6 +1,6 @@
 # ITForRent
 A demo website for users to register their IT products that they want to rent out and other people can rent it for a price.
-Created using PHP, SQL and XAMPP. 
+Created using PHP, javascript, SQL and hosted using XAMPP. 
 
 Readme (Steps to run the website)
 1.	Start your localhost server xampp 
